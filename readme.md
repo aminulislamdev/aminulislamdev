@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="./Banner/banner.png" 
+    src="./banner/banner.png" 
     alt="Md. Aminul Islam - Future Full Stack Developer"
     width="100%"
   />
