@@ -156,7 +156,7 @@ I regularly practice programming problems to improve my:
     alt="GitHub Statistics"
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aminulislamdev&theme=tokyonight&utcOffset=0"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aminulislamdev&theme=tokyonight&utcOffset=6"
     width="48%"
     alt="Productive Time UTC"
   />
